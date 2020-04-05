@@ -1,0 +1,15 @@
+flasgger==0.9.4
+Flask==1.1.1
+Flask-HTTPAuth==3.3.0
+Flask-RESTful==0.3.7
+flask-restful-swagger==0.20.1
+Flask-Track-Usage==2.0.0
+Flask-WTF==0.14.2
+itsdangerous==1.1.0
+Jinja2==2.10.3
+urllib3==1.25.7
+Werkzeug==0.16.0
+WTForms==2.2.1
+xlrd==1.2.0
+uwsgi==2.0.14
+redis

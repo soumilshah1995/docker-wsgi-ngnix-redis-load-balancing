@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a329b028-5ec4-4208-93c6-22862b69d893" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Deploy-Flask-REST-API-on-Docker" />
+  </component>
+  <component name="ProjectId" id="1ZjhNrOPf3ZpjJyvi0E5zkcB61w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.test (1)">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyDocker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyDocker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyDocker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/redis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redis/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyDocker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a329b028-5ec4-4208-93c6-22862b69d893" name="Default Changelist" comment="" />
+      <created>1585358373435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585358373435</updated>
+      <workItem from="1585358378242" duration="5618000" />
+      <workItem from="1585405803189" duration="4195000" />
+      <workItem from="1585413123245" duration="35000" />
+      <workItem from="1585424704800" duration="6721000" />
+      <workItem from="1585445053878" duration="1198000" />
+      <workItem from="1585512069734" duration="2894000" />
+      <workItem from="1585582722339" duration="960000" />
+      <workItem from="1585601116105" duration="5804000" />
+      <workItem from="1585611427730" duration="2785000" />
+      <workItem from="1585619151015" duration="779000" />
+      <workItem from="1585697493523" duration="1638000" />
+      <workItem from="1585753412423" duration="21000" />
+      <workItem from="1586038580439" duration="295000" />
+      <workItem from="1586039409455" duration="3543000" />
+      <workItem from="1586045412296" duration="5096000" />
+      <workItem from="1586091374589" duration="1064000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="648" y="290" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585358693132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="648" y="290" key="#com.intellij.fileTypes.FileTypeChooser/3840.0.1280.693/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585358693132" />
+    <state width="1865" height="459" key="GridCell.Tab.0.bottom" timestamp="1586048300934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="459" key="GridCell.Tab.0.bottom/3840.0.1280.693/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586048300934" />
+    <state width="1865" height="445" key="GridCell.Tab.0.bottom/3840.0.1280.693/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585697524258" />
+    <state width="1865" height="459" key="GridCell.Tab.0.center" timestamp="1586048300933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="459" key="GridCell.Tab.0.center/3840.0.1280.693/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586048300933" />
+    <state width="1865" height="445" key="GridCell.Tab.0.center/3840.0.1280.693/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585697524258" />
+    <state width="1865" height="459" key="GridCell.Tab.0.left" timestamp="1586048300933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="459" key="GridCell.Tab.0.left/3840.0.1280.693/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586048300933" />
+    <state width="1865" height="445" key="GridCell.Tab.0.left/3840.0.1280.693/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585697524257" />
+    <state width="1865" height="459" key="GridCell.Tab.0.right" timestamp="1586048300933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="459" key="GridCell.Tab.0.right/3840.0.1280.693/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586048300933" />
+    <state width="1865" height="445" key="GridCell.Tab.0.right/3840.0.1280.693/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585697524258" />
+    <state x="312" y="0" key="SettingsEditor" timestamp="1585408414508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="0" key="SettingsEditor/3840.0.1280.693/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585408414507" />
+    <state x="418" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1586091432632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="418" y="351" key="com.intellij.ide.util.TipDialog/3840.0.1280.693/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586091432632" />
+    <state x="230" y="0" key="new project wizard" timestamp="1585436986586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="230" y="0" key="new project wizard/3840.0.1280.693/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585436986586" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyDocker$run.coverage" NAME="run Coverage Results" MODIFIED="1585697744059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask" />
+    <SUITE FILE_PATH="coverage/MyDocker$test.coverage" NAME="test Coverage Results" MODIFIED="1585698233490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask" />
+    <SUITE FILE_PATH="coverage/MyDocker$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1586048295010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
+    <SUITE FILE_PATH="coverage/MyDocker$app.coverage" NAME="app Coverage Results" MODIFIED="1585358413322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
