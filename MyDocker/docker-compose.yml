@@ -6,8 +6,8 @@ services:
     build: ./flask
     container_name: flask
     restart: always
-    depends_on:
-      - redis
+    env_file:
+      - dev.env
     expose:
       - 8080
 
@@ -17,6 +17,3 @@ services:
     restart: always
     ports:
       - "80:80"
-
-  redis:
-    image: redis

@@ -12,4 +12,3 @@ Werkzeug==0.16.0
 WTForms==2.2.1
 xlrd==1.2.0
 uwsgi==2.0.14
-redis
